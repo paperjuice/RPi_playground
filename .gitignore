@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#vim temp files
+*.swp
+*.sw0
+
 # C extensions
 *.so
 
